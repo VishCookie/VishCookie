@@ -1,9 +1,5 @@
-### Yo 👋
+### Yo! Here's Me at a Glance! 👋
 
-<!--
-**VishCookie/VishCookie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on chatbots using Amazon Lex
 - 🌱 I’m currently learning Java and AWS
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Facebook](https://www.facebook.com/vish.nair.5670/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a huge Dc fan
--->
+
